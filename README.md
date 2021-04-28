@@ -2,9 +2,8 @@
 
 <br />
 <p align="center">
-  <img src="logo.svg" alt="Logo" width="80" height="80">
+  <img src="logo.svg" alt="Logo" width="180" height="180">
   <h3 align="center">Notes</h3>
-
   <p align="center">
     Notes Web Application.
     <br />
